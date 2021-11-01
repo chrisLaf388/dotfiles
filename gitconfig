@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = christophe.lafenetre@gmail.com
+	name = Christophe Lafenetre
